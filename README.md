@@ -1,3 +1,5 @@
-# [FAQ accordion card](https://thurzinrb.github.io/faq-accordion-card-main/index.html)
-
-I took this page as a challenge for myself, it was a great opportunity to improve my CSS, HTML and JS abilities. The page consists in making a responsive FAQ page that shows and hide the answers as the user clicks the questions. I've posted the solution on [Frontend Mentor](http://frontendmentor.io/), and I'm open for suggestions.
+<h1>FAQ accordion</h1>
+<h3>English</h3>
+<p>This website was a challenge from Frontend Mentor, made to improve my skills in HTML and CSS</p>
+<h3>Português</h3>
+<p>Este site foi um desafio do Frontend Mentor feito para melhorar e aprimorar meu conhecimento em HTML e CSS</p>
